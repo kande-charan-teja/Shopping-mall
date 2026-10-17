@@ -1,0 +1,6 @@
+{
+  "name": "SMART MALL — Architectural Design, Management & 3D Visualization",
+  "description": "Comprehensive shopping mall architectural visualization, interactive multi-floor directory, 3D building exploration, retail brand locator, materials catalog, staff management, and operations dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
